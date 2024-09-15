@@ -1,0 +1,27 @@
+Gangala.in: E-commerce Big Data ETL / ELT Solution and Data Warehouse
+
+Client:A leading eCommerce firm in the USA, Columbia, India, and Latin America
+
+Gangalapromotes local shops selling a wide variety of products at great prices. Easily find the best offers using our price comparison tool. It’s a WIN WIN for …
+
+Industry Type:eCommerce
+
+Services:e-commerce, retail business
+
+Organization Size:100+
+
+Gangala.in: E-commerce site gathering data of different products from various sources and providing it on a single platform
+
+A platform in which users can get price data of any product from multiple sites. The client provided us with raw data. We were tasked with building a pipeline for the data, build API’s to get product data such as price and update them and make sure that all the data is available for the front end team to access.
+
+We built them a pipeline to process and clean the raw data provided. We built API’s to fetch the updated data of the products. Neo4j was used as the intermediary data and mongoDB was used as our primary database. We also process the images of each product and remove any unwanted texts from it and add the client’s watermark.
+
+A fully-updated database with up to date data on all the products and each product having atleast 3-5 prices from different sites.
+
+Linode cloud servers
+
+We were asked to process 3million products per day and this was a challenge as the VM’s we used were not able to handle the load.
+
+We were able to overcome the challenge by using Asynchronous processing of the data thereby increasing the speed of the processing reducing the cost on the client side as well
+
+https://gangala.in/

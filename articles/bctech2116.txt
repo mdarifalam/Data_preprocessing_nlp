@@ -1,0 +1,29 @@
+AWS Lex Voice and Chatbot
+
+Client:A leading tech firm in USA
+
+Industry Type:IT
+
+Services:eCommerce
+
+Organization Size:40+
+
+Create a Voice and chatbot using AWS lex which can book flights, hotels, cars and book some fun activities in a city.
+
+We need to create a voice and chatbot using AWS lex and lambda function. The bot should book a flight, a hotel, and a car by asking some relevant questions to the user like destination, origin, date, etc. We also need to create a combination of all these which can plan the whole trip, flight, hotel, car and book some fun activities.
+
+We have created aws lex intents and lambda functions for all bookings. Intents manage front ends like utterances (user can ask to the bot) and slots (bot replies with relevant questions). Lambda functions manage backend parts like which intent should be triggered if the user says “ book a flight” or “book a hotel” or “book a car”. For search results we have used some external APIs like Amadeus for flight, sabre for hotels and blablacar for car booking.  We have modified search results by using Data Analytics (for getting the cheapest and good star flight and hotel), Machine learning (for getting user’s preferences by analyzing user’s history) and NLP (Differentiate search results by text analysis) techniques so users can get the best search results.
+
+An aws lex voice and chatbot which can book flight, hotel, car and fun activities. This can be integrated with IOS applications.
+
+AWS Lex, AWS Lambda, AWS Cognito, AWS EC2, Google colab, VS code, FAST API, Uvicorn.
+
+python, machine learning, data analytics, NLP.
+
+TfIdf-Vectorizer and cosine similarity
+
+Data Analytics, Machine learning, NLP, Python, AWS, REST APIs.
+
+MySQL
+
+AWS

@@ -1,0 +1,33 @@
+Advanced AI for Road Cam Threat Detection
+
+Client:A leading tech firm in the Middle East
+
+Industry Type:Security
+
+Services:Security services
+
+Organization Size:100+
+
+Detect the threat level of accidents between a Pedestrian and a Car.
+
+Use Deeplearning Computer vision and logic to detect the threat level as defined by the Client.
+
+Linux 22.04
+
+Python
+
+Yolov7
+
+The technical challenge was sorted by testing, experimenting and later on finding and modifying an already existing repository to use as a baseline for our code for integration.
+
+Here are my contact details:
+
+Email: ajay@blackcoffer.com
+
+Skype: asbidyarthy
+
+WhatsApp: +91 9717367468
+
+Telegram: @asbidyarthy
+
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.

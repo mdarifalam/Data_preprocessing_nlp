@@ -1,0 +1,37 @@
+AI and NLP-based Solutions to Automate Data Discovery for Venture Capital and Private Equity Principals
+
+Client:A leading Venture Capital and Private Equity Principals in the Globe
+
+Industry Type:Venture Capital and Private Equity Principals
+
+Services:Private Equity, Venture Capital, Data Analysis, Fund Performance, Alternative Assets, Competitive Intelligence, Limited Partners, Customized Benchmarks, Service Providers, Fund of Funds, M&A, and Financial Services
+
+Organization Size:100+
+
+Flask, Spacy, NLTK, pandas, numpy, transformers, elasticsearch etc.
+
+Question answering in NLP, web scraping, web application Flask, Python
+
+Distil-bert model, en-core-web-sm (pre trained model of spacy)
+
+NLP, Data Analysis, Flask web app, Pandas, Numpy, transformers, fastapi, elasticsearch etc.
+
+Elasticsearch database
+
+AWS
+
+This funding-related data would be used in two ways. From this project, companies can find suitable investors for their startups. Companies can search for investors based on industry, verticals, etc., and find investors to help their startups.
+
+Investors can use it to find a startup in which they want to invest based on their preferences like industry, verticals, etc.
+
+Here are my contact details:
+
+Email: ajay@blackcoffer.com
+
+Skype: asbidyarthy
+
+WhatsApp: +91 9717367468
+
+Telegram: @asbidyarthy
+
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.

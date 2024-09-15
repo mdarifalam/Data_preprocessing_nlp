@@ -1,0 +1,18 @@
+An agent-based model of a Virtual Power Plant (VPP)
+
+Client:A Leading Energy Firm in the USA
+
+Industry Type:Energy
+
+Services:Power, Energy, Distribution
+
+Organization Size:5000+
+
+To create an agent based model of a virtual power plant in Netlogo. To see the function of multiple such power plants that worked simultaneously. These power plants created and supplied energy based on a demand parameter that can be controlled by the observer
+
+-Netlogo
+
+– python
+
+https://www.youtube.com/watch?v=1fzCUzZ0q0Q&ab_channel=Blackcoffer
+

@@ -1,0 +1,22 @@
+Marbles Stimulation using python
+
+Client:A leading consulting firm in the USA
+
+Industry Type:IT Consulting
+
+Services:Consultanting
+
+Organization Size:100+
+
+For all 4 cases, use a random number generator that will give you numbers between 1 & a million [1,000,000].  Whatever generator you use, make sure to adjust the numbers so that they are between 1 & 1,000,000 distributed randomly.
+
+For all tasks, we will have 5 colors, for example in Task 1, when the random number selected is between 1 & 5857 choose a bright color that is easily visible [I have called it Br. Clr. 1], for numbers between 5858 & 8678 choose another bright color [Br. Clr. 2], for numbers between 8679 & 11500 choose B (Blue), for numbers between 11501 & 50,000 choose R (Red), and > 50,000 choose G (Green). Simulate these 4 Task scenarios and represent them in a Table (1000 x 32) and collect statistics at the end. Replicate the simulation exercises for each Task with 3 different initial seed numbers. Likewise for 16 other Tasks.
+
+No Software model is being Used to Solve this Project
+
+No database were used stored complete data in MS Excel
+
+No cloud servers were used for this project
+
+Figure 1: Sample Output File for Task 12 stimulation 3
+

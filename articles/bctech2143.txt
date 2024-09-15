@@ -1,0 +1,43 @@
+Google Local Service Ads (LSA) Data Warehouse
+
+Client:A leading Marketing firm in the USA
+
+Industry Type:Marketing
+
+Services:Marketing consulting
+
+Organization Size:100+
+
+Automated tool to extract daily review data from Local Service Ads dashboard for all clients.
+
+Get list of companies to monitor along with their LSA URL
+
+Use Selenium automated browsing to open the review page for each company.
+
+Web scrape the data from the review page
+
+Prepare report
+
+Upload to database
+
+An automated tool that runs daily and extracts and uploads review data for all companies.
+
+Selenium
+
+Heroku
+
+Sheets API
+
+BigQuery
+
+Python
+
+Data extraction, cleaning and summarising. Web scraping.
+
+BigQuery –  LSA_Review_db
+
+Heroku
+
+Using Selenium to automate web browsing since it takes a large amount of RAM.
+
+Using the proper type of dynos and managing their allotment to lower both costs as well as memory usage.

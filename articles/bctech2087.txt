@@ -1,0 +1,23 @@
+Design & Develop BERT Question Answering model explanations with visualization
+
+Client:A Leading Tech Firm in the USA
+
+Industry Type:IT Consulting
+
+Services:Software, Consulting
+
+Organization Size:100+
+
+We need to use a pre-trained bert question answering model and create a notebook that has explanations of model’s working with some visuals of bertviz, allennlp and gradient values.
+
+A notebook which has an explanation of the bert question answering model using some visualization.
+
+Google colab notebooks, Tensorflow, Bertviz, Allennlp, Transformers
+
+Python programming language, Deep learning, NLP, Data Visualization
+
+Pretrained bert-base-uncased model and distilbert model (both trained on squad2 dataset)
+
+Data visualization, Deep learning, NLP, python
+
+Among these models we kept the best one.

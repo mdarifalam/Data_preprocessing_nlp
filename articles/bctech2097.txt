@@ -1,0 +1,43 @@
+Auvik, Connectwise integration in Grafana
+
+Client:A Leading Tech Firm in the USA
+
+Industry Type:IT & Consulting
+
+Services:Software, Business Solutions, Consulting
+
+Organization Size:200+
+
+Get statistics such as uptime,  availability, cpu throughput etc. from Auvik and Connectwise and make a dashboard from it in Grafana.
+
+Unlike many technologies for which plugins are readily available in Grafana, there are none for auvik and Connectwise. So our task was to device a solution through which all the data from Auvik and Connectwise can be fed to Grafana. This data then would be used to plot graphs in Grafana.
+
+Grafana
+
+Postgres
+
+Vs Code
+
+AWS
+
+Postman
+
+Python
+
+bash
+
+Python
+
+networking
+
+Data visualisation
+
+Postgres
+
+Amazon Web Services (AWS)
+
+Since, the data received from Auvik was in Json fromat, our first approach was to use Grafana’s built-in Json plugin. But this wasn’t working since, the data received from Auvik was multi-dimensional when the Json plugin required One dimensional data.
+
+The above challenge was addressed by transforming the multi- dimensional data into one dimensional when it was store in a python variable. This transformed data was then inserted into Postgres.
+
+https://github.com/AjayBidyarthy/Henry-Pardo

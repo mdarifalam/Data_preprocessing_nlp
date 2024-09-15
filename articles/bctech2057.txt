@@ -1,0 +1,35 @@
+Google LSA Ads (Google Local Service Ads) – ETL tools and Dashboards
+
+Client:A leading marketing firm in the USA
+
+Industry Type:Marketing
+
+Services:Ads, Marketing, Campaign, Consulting
+
+Organization Size:200+
+
+The client has a Google LSA Ads Manager Account with about 100+ accounts and wishes to collect data available through the Google LSA API daily. The client wishes to set up a private Databases that is automatically created for newly added accounts and stores all of the collected data (Lead and Phone Call data). Finally, all collected data must be presented through the Google Looker Studio Dashboards, with the design layouts as suggested by the client.
+
+The solution involves a number of Python-based ETL tools that are responsible for fetching the data from Google’s LSA API daily and updating the same in the Google BigQuery Databases.
+
+Two different tools run are:
+
+The fetched data is stored in BigQuery Databases on the client-provided (Google)manager account.
+
+Carefully curated Google Looker Studio dashboards implemented with client-suggested theme layout which are updated upon client request, represent a number of KPIs and graphs indicating major data trends.
+
+The designed dashboards have a number of data-controlling filters that filter the data account-wise and date-wise.
+
+Heroku: Cloud Application Platform
+
+Here are my contact details:
+
+Email: ajay@blackcoffer.com
+
+Skype: asbidyarthy
+
+WhatsApp: +91 9717367468
+
+Telegram: @asbidyarthy
+
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.

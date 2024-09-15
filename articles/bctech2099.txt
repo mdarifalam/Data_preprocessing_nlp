@@ -1,0 +1,37 @@
+Web Data Connector
+
+Client:A Leading Marketing Tech Firm in Australia
+
+Industry Type:Marketing
+
+Services:Marketing Solutions
+
+Organization Size:50+
+
+To make a software code that takes data from a source and ingests it into a database present on a server. The scripts should automatically execute after regular intervals of time.
+
+The client had several data sources that were updated with new data regularly. The client wanted software that triggers itself automatically and takes data from those data sources and ingests it into a database that is hosted on a Linode server. Also, the date parameters in the query should be changed dynamically using the current date. Further, we had to assist in setting up the Tableau BI tool on the client’s PC and connect the Postgres database to the tableau.
+
+Linode server
+
+VS Code
+
+Python
+
+Bash
+
+PSQL.
+
+Python programming
+
+Postgres SQL
+
+Linux scripting
+
+Postgres
+
+Linode
+
+This solution helps in maintaining a copy of all data sources inside our Postgres database. Also, the data is 24/7 available. Since data inside the Postgres is updated regularly, graphs in the tableau are also up to date.
+
+https://github.com/X360pro/Web-connector-for-tableu

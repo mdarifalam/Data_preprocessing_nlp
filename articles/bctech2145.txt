@@ -1,0 +1,43 @@
+Marketing Ads Leads Call Status Data Tool to BigQuery
+
+Client:A leading Marketing firm in the USA
+
+Industry Type:Marketing
+
+Services:Marketing consulting
+
+Organization Size:100+
+
+Prepare a daily report for the companies and upload it to BigQuery database. Data is from callrail and contains all call information about a company.
+
+Use CallRail API to get data from database.
+
+Run script daily
+
+Filter out excess data
+
+Prepare report
+
+Upload to BigQuery
+
+A working deployed automated tool that runs once a day in the morning hours and uploads the data to BigQuery database. Tool is monitored daily.
+
+Heroku
+
+CallRail API
+
+BigQuery
+
+Sheets API
+
+Python
+
+Data extraction, cleaning, and summarising
+
+BigQuery –  Call_Status_From_CallRail
+
+Heroku
+
+Ensuring proper data upload to database
+
+Proper monitoring of tool post-deployment.

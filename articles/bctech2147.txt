@@ -1,0 +1,41 @@
+CallRail, Analytics & Leads Report Alert
+
+Client:A leading Marketing firm in the USA
+
+Industry Type:Marketing
+
+Services:Marketing consulting
+
+Organization Size:100+
+
+Prepare an annual report for the companies and upload it to database. Data is from callrail and contains call analytics.
+
+Use CallRail API to get data from database.
+
+Set time window to be one year.
+
+Filter out excess data
+
+Prepare report
+
+Upload to BigQuery
+
+A working deployed automated tool that runs once a year in the morning hours and uploads the data to BigQuery. Tool is in prototype phase and hence is operational for 2 companies.
+
+Heroku
+
+CallRail API
+
+BigQuery
+
+Python
+
+Data extraction, cleaning and summarising
+
+BigQuery –  lead_report_alert_callrail
+
+Heroku
+
+Working on a large amount of data since a year’s data contains hundred of thousands of records
+
+Optimized code for faster processing.

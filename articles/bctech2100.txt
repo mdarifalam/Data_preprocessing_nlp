@@ -1,0 +1,23 @@
+An app for updating the email id of the user and stripe refund tool using retool
+
+Client:A Leading Healthcare Tech Firm in the USA
+
+Industry Type:Healthcare
+
+Services:Healthcare Solutions
+
+Organization Size:200+
+
+The client needed two apps in retool
+
+We create the following two apps in retool
+
+Apps in retool
+
+We have not used any models
+
+The main challenge was creating a full payment option using stripe API. If the customer has already received a partial amount then while performing a full refund the refund amount was always greater than the balance amount
+
+To solve the full payment option issue, we calculate the balance amount and provided that amount to the full payment event in retool
+
+Using this apps it’s easy for the client to update the email id of the customer and refund the customers client can refund into two option full payment and partial payment

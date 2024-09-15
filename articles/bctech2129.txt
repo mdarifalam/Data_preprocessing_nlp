@@ -1,0 +1,21 @@
+React Native Apps in the Development Portfolio
+
+Here are the list of react native apps developed by the team and the resources:
+
+https://itunes.apple.com/us/app/truckmap-truck-gps-routes/id1198422047?mt=8
+
+https://play.google.com/store/apps/details?id=com.truckmap.truckmap
+
+https://play.google.com/store/apps/details?id=com.verifai.standalone
+
+https://apps.apple.com/nl/app/verifai/id1504214033
+
+https://apps.apple.com/de/app/meetlist-lokale-aktivit%C3%A4ten/id1439183715
+
+https://play.google.com/store/apps/details?id=de.mlug.meetlist
+
+https://play.google.com/store/apps/details?id=com.payroo.employee
+
+https://play.google.com/store/apps/details?id=com.vahcare
+
+https://play.google.com/store/apps/details?id=com.candorivf

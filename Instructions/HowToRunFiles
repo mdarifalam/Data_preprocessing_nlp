@@ -1,0 +1,11 @@
+After Installation dependencies
+
+SET Folder and file path in both files according to Environment you are using.
+
+1. First Run DataExtraction.py file 
+  use python DataExtraction.py
+
+2. After Generating data run TextualAnalysis.py file
+  use python TextualAnalysis.py
+
+

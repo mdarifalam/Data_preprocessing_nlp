@@ -1,0 +1,29 @@
+Design and develop MLops framework for Data-centric AI
+
+Client:A leading tech firm in the USA
+
+Industry Type:IT
+
+Services:SaaS, Products
+
+Organization Size:100+
+
+The task involves finding models and tools for several different tasks across various domains. The tasks include video and image capturing, working with documents such as PDF and Excel files, converting text to audio, audio capturing and transcription, translation to major languages, utilizing language models with a focus on Jina finetuner and its limitations, creative AI for generating pictures and designs, synthesizing language texts, creating Kibana dashboards and data storytelling, code creation for specific platforms like Editorjs and Nextjs, integrating Jina API inference into function blocks in Editorjs/Nextjs, UX/UI creation for the front end of Editorjs and Nextjs, transfer learning and reinforcement learning, utilizing Wikipedia for general knowledge, and utilizing an epistemic model called EPINET. To fulfill this task, you will need to search for relevant models, tools, and resources specific to each task mentioned above.
+
+Jina Hub/AI, Python, Hugging Face, Argilla, Redis stack, Kibana
+
+Python
+
+Epistemic Neural Nets, weight watcher, OpenAI Whisper transformer, Epinet
+
+Here are my contact details:
+
+Email: ajay@blackcoffer.com
+
+Skype: asbidyarthy
+
+WhatsApp: +91 9717367468
+
+Telegram: @asbidyarthy
+
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.

@@ -1,0 +1,57 @@
+Design and develop PowerShell script
+
+Client:A leading tech firm in the USA
+
+Industry Type:IT
+
+Services:SaaS, Products
+
+Organization Size:100+
+
+Create a PowerShell script for the following:
+
+check and enable auditing
+
+for checking and enabling auditing of the file we used  PowerShell NTFSSecurity module
+
+configuring winrm for remote windows server
+
+For this we created 2 script:
+
+check audit of windows/system32 folder and windows/inf folder of remote windows server
+
+for this, we created a script that connects to the remote windows server using the Enter-PSSession command and then checks the audit for windows/system32 and windows/inf folder also we can add audit rule to windows/system32 and windows/inf folder from remote servers
+
+Powershell script
+
+powershell
+
+Check audit
+
+Add audit
+
+Check audit
+
+Before running create script
+
+Create script for winrm listner
+
+List of listeners after running create script
+
+Connect with remote machine
+
+When rights are not applied
+
+When rights are applied
+
+Here are my contact details:
+
+Email: ajay@blackcoffer.com
+
+Skype: asbidyarthy
+
+WhatsApp: +91 9717367468
+
+Telegram: @asbidyarthy
+
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.

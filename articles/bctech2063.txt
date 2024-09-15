@@ -1,0 +1,37 @@
+AI-Based Algorithmic Trading Bot for Forex
+
+Client:A leading trading firm in the USA
+
+Industry Type:Finance
+
+Services:Trading, Banking, Investment
+
+Organization Size:100+
+
+
+
+Pandas, numpy, scikit-learn, tensorflow, flask etc.
+
+Data Analysis, Data Visualization, Machine learning, Deep learning, flask web app etc.
+
+Logistic Regression, LSTM model
+
+Data Analysis, Data Visualization, Machine learning, Deep learning, flask, python etc.
+
+MongoDB
+
+AWS Ec2
+
+It will help traders to predict the stock market earlier and get better returns from this project.
+
+Here are my contact details:
+
+Email: ajay@blackcoffer.com
+
+Skype: asbidyarthy
+
+WhatsApp: +91 9717367468
+
+Telegram: @asbidyarthy
+
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.

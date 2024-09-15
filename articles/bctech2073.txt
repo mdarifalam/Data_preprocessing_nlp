@@ -1,0 +1,36 @@
+Advanced AI for Handgun Detection
+
+Client:A leading tech firm in the Middle East
+
+Industry Type:Security
+
+Services:Security services
+
+Organization Size:100+
+
+Detecting Handguns in images and videos.
+
+We use Yolov7 instance segmentation model to detect and provide coordinates for handguns.
+
+Trained model of yolov7 instance segmentation
+
+Python
+
+Yolov7_mask
+
+Retrieving handgun images in bulk from opensource.
+
+Found Openimages dataset with good amount of required images
+
+Here are my contact details:
+
+Email: ajay@blackcoffer.com
+
+Skype: asbidyarthy
+
+WhatsApp: +91 9717367468
+
+Telegram: @asbidyarthy
+
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.
+

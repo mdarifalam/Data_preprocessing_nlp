@@ -1,0 +1,33 @@
+NLP-based Approach for Data Transformation
+
+Client:A leading tech firm in the USA
+
+Industry Type:IT
+
+Services:SaaS, Products
+
+Organization Size:100+
+
+Performing Readability and Quality testing on the text corpus from text files
+
+The intention was to create a tool/system that can consume text files through a given csv file having a path for all the text files through this csv file our tool should be able to read all files one by one and could perform some tests and analysis on that text data and output the results in a csv format presenting all the metrics.
+
+In order to achieve this goal we created a Python-based ready-to-use code that will read all text files presented in the given csv files and perform 14 different evaluations on that text data and save the results in a excel and csv based format.
+
+The final deliverable was the tool/system/code for processing and evaluation text.
+
+Python Programming
+
+The architecture of the solution for this project problem statement was simple, no challenges were faced during the execution of the project.
+
+Here are my contact details:
+
+Email: ajay@blackcoffer.com
+
+Skype: asbidyarthy
+
+WhatsApp: +91 9717367468
+
+Telegram: @asbidyarthy
+
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.

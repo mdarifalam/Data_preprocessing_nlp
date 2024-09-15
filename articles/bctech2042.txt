@@ -1,0 +1,35 @@
+Design and develop retool app for wholecell.io and Asana data using their api’s
+
+Client:A leading tech firm in the USA
+
+Industry Type:IT
+
+Services:SaaS, Products
+
+Organization Size:100+
+
+Create retool app for wholecell.io and Asana data using their api’s
+
+We have created two table one table contain data from wholecell.io platform and another table contain data from Assna.
+
+In that wholecell.io table we are providing:
+
+In Assna Table we are providing following details:
+
+As client data from wholecell and Assna was linked client can search the order by PO-id in Assna table
+
+App in retool
+
+Api was not providing all required details according to the client requirement and there were less options for data pre-processing as retool only javascript
+
+Here are my contact details:
+
+Email: ajay@blackcoffer.com
+
+Skype: asbidyarthy
+
+WhatsApp: +91 9717367468
+
+Telegram: @asbidyarthy
+
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.

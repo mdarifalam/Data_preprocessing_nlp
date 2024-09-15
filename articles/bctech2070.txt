@@ -1,0 +1,31 @@
+Advanced AI for Thermal Person Detection
+
+Client:A leading tech firm in the Middle East
+
+Industry Type:Security
+
+Services:Security services
+
+Organization Size:100+
+
+Detect a Person from thermal image and videos. Why this model was created was not told to us by the client.
+
+Use Deeplearning Computer Vision to train the model on custom dataset and get the results.
+
+Trained model
+
+Python
+
+Yolov7
+
+Here are my contact details:
+
+Email: ajay@blackcoffer.com
+
+Skype: asbidyarthy
+
+WhatsApp: +91 9717367468
+
+Telegram: @asbidyarthy
+
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.

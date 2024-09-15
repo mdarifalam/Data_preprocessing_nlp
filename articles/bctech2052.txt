@@ -1,0 +1,45 @@
+Data from CRM via Zapier to Google Sheets (Dynamic) to PowerBI
+
+Client:A leading solar panel firm in the USA
+
+Industry Type:Energy
+
+Services:Solar Panel
+
+Organization Size:500+
+
+Solar Panel organization from America wants to keep track of sales data. They want to see the leadership dashboard of their organization in terms of sales. They also want to keep track of their campaigns and leads generated from sources of those campaigns. They want to keep track of sales data from different sources.
+
+First, we fetch the data from CRM to PowerBI. Clean the data of CRM using DAX and then perform calculations on the data. Using cleaned data, we build KPI on PowerBI.
+
+To complete the project, we follow the following data flow pipeline:
+
+Data from CRM 🡪 Zapier 🡪 Google Sheet (Dynamic) 🡪PowerBI
+
+PowerBI, DAX Language
+
+CRM, Zapier , PowerBI, Google Sheet
+
+Challenges Faced during the Project Execution :
+
+Solution:
+
+Using this Dashboard client can make important decisions like from which campaign they are getting a greater number of leads and out of those leads how many are actually a Sale. They can keep track of their sales leadership of employee of the month in term of sales.
+
+CRM
+
+Zapier
+
+Dashboard
+
+Here are my contact details:
+
+Email: ajay@blackcoffer.com
+
+Skype: asbidyarthy
+
+WhatsApp: +91 9717367468
+
+Telegram: @asbidyarthy
+
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.

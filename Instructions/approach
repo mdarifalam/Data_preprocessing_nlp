@@ -1,0 +1,21 @@
+
+Step-by-Step Approach and solution :
+1. Extracting the data from given URL in Input.xlsx file
+
+2.Read Excel Workbook:
+Open the Excel workbook using openpyxl and activate the worksheet.
+
+3.Iterate Over Text Files:
+Loop through all files in the input folder.
+For each .txt file, read its content.
+
+4.Analyze Text:
+Perform text analysis using the provided analyze_text function from TextualAnalysis.py.
+Store the analysis results.
+
+5.Update Excel Workbook:
+Find the matching row in the Excel worksheet using the URL ID derived from the file name.
+Update the row with the analysis results, ensuring that columns are not updated twice.
+
+6.Save Results to CSV:
+Save the updated data.

@@ -1,0 +1,53 @@
+Qualtrics API integration using Python
+
+Client:A leading tech firm in the USA
+
+Industry Type:IT
+
+Services:SaaS, Products
+
+Organization Size:100+
+
+API Integration to read/write data in SQL tables from an online application.
+
+To write the api between qualtrics and sql server using python programming language.
+
+Fig. System Architecture
+
+Python Software
+
+Documentation
+
+PythonQualtrics
+
+PandasRequestsnumpyZipfileiopyodbc
+
+Extract Transfer Load
+
+SQL Server
+
+During the project execution, we faced the following challenges:
+
+To solve the technical challenges, we provided the following solutions as follow:
+
+Using this script the client can now fetch the Qualtrics data into the SQL server automatically after every 1 hour.
+
+Fig. Data in CSV Format
+
+Fig. Data in Table form
+
+Fig. SQL data
+
+Github:  https://github.com/AjayBidyarthy/Richi-S-api
+
+Here are my contact details:
+
+Email: ajay@blackcoffer.com
+
+Skype: asbidyarthy
+
+WhatsApp: +91 9717367468
+
+Telegram: @asbidyarthy
+
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.

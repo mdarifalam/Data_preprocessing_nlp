@@ -1,0 +1,17 @@
+Real-time dashboard to monitor infrastructure activity and Machines
+
+Client:A leading tech firm in Europe
+
+Industry Type:IT
+
+Services:Software Services
+
+Organization Size:30+
+
+For the current project, we hope to develop a real-time dashboard (* it updates every several minutes). Currently, we have multiple Ubuntu machines that are sending messages every minute to Apache Pulsar.
+
+Developing a realtime updating dashboard to display the metadata of various machines on a server from pandio queue.
+
+The dahboard must display the count of “inactive” , “active” and “down” servers with a table displaying the details of all the machines in different color scheme for each type of server/machine.
+
+Development hosted URL

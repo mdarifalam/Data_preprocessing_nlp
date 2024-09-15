@@ -1,0 +1,33 @@
+Data ETL: Local Service Ads Leads to BigQuery
+
+Client:A leading Marketing firm in the USA
+
+Industry Type:Marketing
+
+Services:Marketing consulting
+
+Organization Size:100+
+
+Upload daily data from Google Local Service Ads dashboard to BigQuery database.
+
+A working deployed automated tool that runs everyday in the morning hours and uploads a report to database. Tool is monitored everyday.
+
+Heroku
+
+LSA API
+
+BigQuery API
+
+Sheets API
+
+Python
+
+Data extraction, cleaning and summarising
+
+BigQuery –  lsa_lead_daily_data
+
+Heroku
+
+Making sure that the data uploaded is for the right company.
+
+Monitoring daily logs and uploads for some time and making sure data was correct

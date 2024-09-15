@@ -1,0 +1,39 @@
+AI solution for a Technology, Information and Internet firm
+
+Client:A leading Technology, Information and Internet firm in India
+
+Industry Type:IT
+
+Services:Emerging Technologies, 2030, and 2050
+
+Organization Size:10+
+
+The objective was to analyze, research, and propose data science solutions in the product based on the product design, use cases, and services.
+
+b. List needed data
+
+c. List process
+
+d. List models
+
+e. List solution
+
+Statement of Work (SoW) with a solution documentation
+
+Python- Flask
+
+Amazon S3
+
+AWS EC2
+
+Here are my contact details:
+
+Email: ajay@blackcoffer.com
+
+Skype: asbidyarthy
+
+WhatsApp: +91 9717367468
+
+Telegram: @asbidyarthy
+
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.

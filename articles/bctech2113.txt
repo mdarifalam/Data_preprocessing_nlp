@@ -1,0 +1,33 @@
+Electric Vehicles (EV) Load Management System to Forecast Energy Demand
+
+Client:A leading energy consulting firm in the USA
+
+Industry Type:Energy
+
+Services:Energy solutions, Consultancy
+
+Organization Size:100+
+
+Create a Machine learning solution to manage electricity for electric vehicles.
+
+Main Tasks:
+
+We need to calculate the date and time probability that the user will plugin his vehicle today based on his plugin date and plugin time history. We also need to decrease time probability based on the user’s past time range.
+
+We converted the user’s plugin data into binary values like 0 if the user hasn’t plugged-in his vehicle on that day and 1 if he plugged-in. We identified the driven distance based on the amount of charge used between two plug-in times. Then we trained the Ridge Regression ML model for identifying each day driven kilometer. From these kilometres we have identified the probability that user’s will plug-in today and it will increase day by day till the user does not plug-in his vehicle.
+
+For time probability we have used Probability Distribution Function (PDF) and Cumulative Distribution Function  (CDF). These functions will decrease probability according to the user’s time range.
+
+2 python scripts to:
+
+Google Colab, VS Code, Google Drive, and MS Excel.
+
+Python programming language, Data Analytics with numpy and pandas, Data Visualization with matplotlib, Statistics and Mathematics, Machine learning with SKlearn.
+
+Ridge Regression Model
+
+Data Analytics, Data Visualization, Machine learning, Python, Statistics
+
+local data from MS Excel Sheet
+
+There are a lot of challenges faced during project execution

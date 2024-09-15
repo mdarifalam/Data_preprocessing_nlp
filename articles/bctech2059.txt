@@ -1,0 +1,33 @@
+Analytical solution for a tech firm
+
+Client:A leading tech firm in the USA
+
+Industry Type:IT
+
+Services:Consulting
+
+Organization Size:100+
+
+The client’s organization had a project that matches URLs up using TF-IDF algorithm.
+
+The script threw some errors and resolving these errors was the immediate ask.
+
+The client also required us to adjust the script for better accuracy and faster computation.
+
+Python
+
+Google spreadsheets
+
+https://colab.research.google.com/github/AjayBidyarthy/Daniel-Emery/blob/main/vanilla.ipynb#scrollTo=vPp14xj020RL
+
+Here are my contact details:
+
+Email: ajay@blackcoffer.com
+
+Skype: asbidyarthy
+
+WhatsApp: +91 9717367468
+
+Telegram: @asbidyarthy
+
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.

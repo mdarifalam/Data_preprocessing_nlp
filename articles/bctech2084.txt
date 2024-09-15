@@ -1,0 +1,21 @@
+Trading Bot for FOREX
+
+Client:A Leading Trading Firm in the USA
+
+Industry Type:Finance
+
+Services:Trading, Consulting
+
+Organization Size:100+
+
+PyTrader
+
+numpy
+
+pandas
+
+Python(Automation)
+
+Mql4(To save tick data)
+
+Client requirements were  to automate his forex trading strategy  on Meta Trader4 terminal, so that he doesn’t have to bother trading anymore, the Python script we designed to not only do it, plus it offers a safe exit point for Ongoing Trades, that saved the client’s money and time.

@@ -1,0 +1,39 @@
+Design and develop a retool app that will show stock and crypto related information using IEX API
+
+Client:A leading fintech firm in the USA
+
+Industry Type:Finance
+
+Services:Crypto, financial services, banking, trading, stock markets
+
+Organization Size:100+
+
+Create a retool app that will show stock and crypto related information using IEX API
+
+Created a flask web application with following features and pages:
+
+Page 1 (Home page)– Show a Stock & Crypto Search Bar that will show the most relevant option in the IEX API via ticker search. Upon submit, user will be taken to the “Ticker Page”– List the 10 top trending stocks for each category (link click to ticker page)(logo, Stock ticker, company name, stock price, % change.Mega CapLarge CapMid CapSmall CapMicro Cap
+
+Page 2 (Ticker Page)
+
+-Show Company Data – (Ticker, Company Name, Logo, Market Cap, and all the other corporate data (employees, CEO, HQ, Founded, Website)-Stock Price Chart – 1 year chart, daily.-Stock Price Volume – Weekly average 20 weeks
+
+-Recent News – list of 25 most recent articles
+
+Deployed flask web application on AWS
+
+AWS
+
+www.stocks.bullish.studio
+
+Here are my contact details:
+
+Email: ajay@blackcoffer.com
+
+Skype: asbidyarthy
+
+WhatsApp: +91 9717367468
+
+Telegram: @asbidyarthy
+
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.

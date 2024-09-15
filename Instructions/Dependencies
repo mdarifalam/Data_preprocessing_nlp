@@ -1,0 +1,6 @@
+install these dependencies
+pandas
+openpyxl
+nltk
+requests
+bs4
